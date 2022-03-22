@@ -1,9 +1,0 @@
-POST http://localhost:9000/api/addManager HTTP/1.1
-Content-Type: application/json
-
-{
-    "name": "Abdeali",
-    "email": "burhanhp5158@gmail.com",
-    "password": "12345678",
-    "phone": "7977602370"
-}
