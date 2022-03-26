@@ -68,7 +68,7 @@ const CarouselPage = () => {
         </MDBCarousel>
       </MDBContainer>
 
-      <div className="untree_co-section bg-light">
+      {/* <div className="untree_co-section bg-light">
         <div className="container">
           <div className="row justify-content-center mb-5">
             <div className="col-lg-7 text-center">
@@ -123,7 +123,7 @@ const CarouselPage = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className="untree_co-section">
         <div className="testimonial-grid">
           <div
